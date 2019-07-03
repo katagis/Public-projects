@@ -1,7 +1,7 @@
-# Repositories Index
+# Repositories Overview
 
 This readme includes links and an overview of my repositories.
-
+*WIP*
 
 ## Undergraduate CEID projects.
 Some of the projects and homework assignments I developed as an undergraduate.
@@ -19,8 +19,11 @@ More info may be available in the readme of each repository.
 
 
 ## Other Projects
+These projects are for the most part completed and usable. Polish and stability may vary.
 
-| Description  | Languages & Technologies |
+| Description  | Languages |
 | ------------- | ------------- |
 | [WinForms Crossword with Procedural Generation](https://github.com/katagis/win-crossword)| C# |
+| [Multiplayer Co-op Asteroid Game](https://github.com/katagis/rust-blaster) | Rust |
 | [Web Sudoku Solver](https://github.com/katagis/sudoku-solver)| JavaScript |
+
